@@ -1,0 +1,7 @@
+streamlit>=1.50
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+plotly>=5.20
+openpyxl>=3.1   # lectura de archivos Excel .xlsx
+pytest>=8.0     # solo para ejecutar las pruebas unitarias
